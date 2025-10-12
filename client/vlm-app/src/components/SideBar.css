@@ -1,0 +1,14 @@
+.SideBar-body {
+  padding: 5px;
+  margin: 10px;
+  /* position: centered; */
+  left: 0;
+  top: 0;
+  width: 90px;
+  height: 100vh;
+  /* background-color: #d9dde0; */
+  /* background-color: #04AA6D; */
+  /* box-shadow: 2px 0 5px rgba(202, 64, 64, 0.1); */
+  /* border: solid  ; */
+  /* border-radius: 30px; */
+}
